@@ -1,0 +1,6 @@
+node_modules/
+sessions/
+.env
+activity.log
+index-source.js
+
