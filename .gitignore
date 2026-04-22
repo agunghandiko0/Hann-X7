@@ -3,4 +3,8 @@ sessions/
 .env
 activity.log
 index-source.js
-
+media/
+*-original.js
+*.bak
+*.backup
+proxy.txt
