@@ -1,15 +1,1 @@
-require('dotenv').config();
-
-module.exports = {
-    APP_NAME: "HANN X7",
-    VERSION: "6.0.0-PREMIUM",
-    OWNER_TG: "@agunghandiko (telegram)",
-    PASTEBIN_URL: "https://pastebin.com/raw/Qbv9n3FX",
-    AI_KEY: process.env.AI_KEY || "",
-    AI_MODEL: "google/gemini-2.0-flash-001",
-    TIMEZONE: "Asia/Jakarta",
-    LOG_FILE: "./activity.log",
-    TARGET_GROUP: "",
-    SLEEP_START: null,
-    SLEEP_END: null
-};
+var a0_0x27fdf5=a0_0x2b55;function a0_0x2a43(){var _0x167229=['4112353gWDbqE','3431840iolHEa','HANN\x20X7','561609igmHUf','config','10hrbMII','./activity.log','google/gemini-2.0-flash-001','6.0.0-PREMIUM','Asia/Jakarta','dotenv','@agunghandiko\x20(telegram)','8635FNKZgK','exports','https://pastebin.com/raw/Qbv9n3FX','2mYJVNi','4044EBgtBa','16NhdzXM','6220068VzDpyV','789092bzjUhe','5LHKjzs','4569906aYwVyJ'];a0_0x2a43=function(){return _0x167229;};return a0_0x2a43();}function a0_0x2b55(_0x155cc5,_0x11cbd7){_0x155cc5=_0x155cc5-0x131;var _0x2a43f0=a0_0x2a43();var _0x2b5565=_0x2a43f0[_0x155cc5];return _0x2b5565;}(function(_0x40c678,_0x567814){var _0x221a5b=a0_0x2b55,_0x41b1f7=_0x40c678();while(!![]){try{var _0x1147ba=-parseInt(_0x221a5b(0x146))/0x1*(-parseInt(_0x221a5b(0x142))/0x2)+-parseInt(_0x221a5b(0x132))/0x3+-parseInt(_0x221a5b(0x134))/0x4+-parseInt(_0x221a5b(0x131))/0x5*(-parseInt(_0x221a5b(0x145))/0x6)+parseInt(_0x221a5b(0x133))/0x7*(parseInt(_0x221a5b(0x144))/0x8)+-parseInt(_0x221a5b(0x136))/0x9*(-parseInt(_0x221a5b(0x138))/0xa)+-parseInt(_0x221a5b(0x13f))/0xb*(-parseInt(_0x221a5b(0x143))/0xc);if(_0x1147ba===_0x567814)break;else _0x41b1f7['push'](_0x41b1f7['shift']());}catch(_0x59f2c7){_0x41b1f7['push'](_0x41b1f7['shift']());}}}(a0_0x2a43,0xe70ec),require(a0_0x27fdf5(0x13d))[a0_0x27fdf5(0x137)](),module[a0_0x27fdf5(0x140)]={'APP_NAME':a0_0x27fdf5(0x135),'VERSION':a0_0x27fdf5(0x13b),'OWNER_TG':a0_0x27fdf5(0x13e),'PASTEBIN_URL':a0_0x27fdf5(0x141),'AI_KEY':process.env.AI_KEY||'','AI_MODEL':a0_0x27fdf5(0x13a),'TIMEZONE':a0_0x27fdf5(0x13c),'LOG_FILE':a0_0x27fdf5(0x139),'TARGET_GROUP':'','SLEEP_START':null,'SLEEP_END':null});
