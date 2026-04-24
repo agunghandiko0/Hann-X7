@@ -7,3 +7,4 @@ media/
 *-original.js
 admin.js
 proxy.txt
+build.sh
