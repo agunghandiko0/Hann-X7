@@ -14,9 +14,9 @@ printf "\n\e[1;36m  ╭───────────────────
 printf "\e[1;36m  │ \e[1;95m⚡\e[0m \e[1;97mCHECK   :\e[0m \e[1;93mMemeriksa File Engine (GGUF)...\e[0m\n"
 
 if [ ! -f "hann-engine.gguf" ]; then
-    printf "\e[1;36m  │ \e[1;95m⚡\e[0m \e[1;97mACTION  :\e[0m \e[1;96mMengunduh Engine (±800MB)...\e[0m\n"
+    printf "\e[1;36m  │ \e[1;95m⚡\e[0m \e[1;97mACTION  :\e[0m \e[1;96mMengunduh Engine Qwen 2.5 (±980MB)...\e[0m\n"
     printf "\e[1;36m  ╰──────────────────────────────────────────────\e[0m\n"
-    wget -q --show-progress https://huggingface.co/bartowski/Llama-3.2-1B-Instruct-GGUF/resolve/main/Llama-3.2-1B-Instruct-Q4_K_M.gguf -O hann-engine.gguf
+    wget -q --show-progress https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct-GGUF/resolve/main/qwen2.5-1.5b-instruct-q4_k_m.gguf -O hann-engine.gguf
     printf "\n\e[1;36m  ╭──────────────────────────────────────────────\e[0m\n"
 else
     printf "\e[1;36m  │ \e[1;95m⚡\e[0m \e[1;97mSTATUS  :\e[0m \e[1;92mEngine Sudah Terinstal (Aman)\e[0m\n"
